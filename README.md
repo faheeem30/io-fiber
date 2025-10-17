@@ -19,4 +19,4 @@ Built using **HTML, CSS, and JavaScript**, this project provides a clean, visual
 
 ---
 
-## 📂 File Structure
+
